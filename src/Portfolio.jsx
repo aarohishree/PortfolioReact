@@ -1,14 +1,12 @@
 import React from 'react';
 import './Portfolio.css';
 
-// --- You can add cute icons from a library like react-icons ---
-// npm install react-icons
+
 import { FiMail, FiPhone, FiMapPin, FiHeart, FiCode, FiUsers, FiAward, FiStar } from 'react-icons/fi';
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaFigma, FaGitAlt, FaAws } from 'react-icons/fa';
 import profilePic from './assets/aarohi.png';
 
 const App = () => {
-    // Helper function for smooth scrolling
     const scrollToSection = (id) => {
         const element = document.getElementById(id);
         if (element) {
