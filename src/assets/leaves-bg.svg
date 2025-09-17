@@ -1,0 +1,9 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="leaves-bg">
+    <path d="M100 350 Q120 300 200 300 Q280 300 300 350 Q250 340 200 350 Q150 360 100 350 Z" fill="#181818" fill-opacity="0.18"/>
+    <path d="M60 250 Q90 200 200 200 Q310 200 340 250 Q270 240 200 250 Q130 260 60 250 Z" fill="#181818" fill-opacity="0.13"/>
+    <path d="M120 120 Q160 80 200 120 Q240 80 280 120 Q240 110 200 120 Q160 130 120 120 Z" fill="#181818" fill-opacity="0.10"/>
+    <ellipse cx="320" cy="80" rx="40" ry="15" fill="#181818" fill-opacity="0.10"/>
+    <ellipse cx="80" cy="80" rx="30" ry="12" fill="#181818" fill-opacity="0.10"/>
+  </g>
+</svg>
